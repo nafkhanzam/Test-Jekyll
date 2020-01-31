@@ -38,7 +38,7 @@ custom_css_path: "/misc/custom.css"
 custom_print_css_path: "/assets/css/print.css"
 
 # Collections for left-nav pages
-baseurl: "Test-Jekyll"
+baseurl: ""
 collections:
   who-we-are:
     output: true
